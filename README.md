@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer and PhD student at Baylor.</h3>
 
 
-- ⚡ I’m currently working on several research publications in machine learning, multi-sensor fusion, radar, and biomedical engineering.
+- ⚡ I’m currently working on research projects in spectrum engineering and machine learning.
 
 - 📫 Get in touch at **jonathan_swindell1@baylor.edu**.
 - 👀 See my work experience at [www.linkedin.com/in/jonathan-swindell/](www.linkedin.com/in/000jonathan-swindell/).
