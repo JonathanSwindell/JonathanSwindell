@@ -7,18 +7,16 @@
 - 🚀 I completed my bachelor's degree in Computer Engineering from **The University of Alabama in Huntsville** in 2023. Go Chargers!
 - 🐻 And I am now a **PhD Student** at **Baylor**. 
 
-<h3 align="left">Papers</h3>
-
-
 <h3 align="left">Organization of Open Source Code</h3>
 - Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
- 	- DeadReckoning System Python Logger and ROS Controls ([code]([https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
-  	- Andriod Bluetooth Broadcast ([code]([https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast])
-  	- Visualization Tool ([code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
+ 	- DeadReckoning System Python Logger and ROS Controls ([Code](https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
+  	- Andriod Bluetooth Broadcast ([Code]([https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast]))
+  	- Visualization Tool ([Code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
 
 - High School Exploits
-	- Multiplayer Snake HTML **3rd place at Huntsville Highschool Hackathon** ([Code]([Multiplayer Snake HTMLhttps://github.com/JonathanSwindell/Multiplayer-Web-Snake]))
- 	- IOS 11 Pong App **Top 61st in the App Store's Arcade Section** ([Code]([Multiplayer Snake HTMLhttps://github.com/JonathanSwindell/Multiplayer-Web-Snake]))
+	- Multiplayer Snake HTML **3rd place at Huntsville Highschool Hackathon** ([Code](https://github.com/JonathanSwindell/Multiplayer-Web-Snake))
+ 	- IOS 11 Pong App **Top 61st in the App Store's Arcade Section** ([Code](https://github.com/JonathanSwindell/Pong-for-iPhone))
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
