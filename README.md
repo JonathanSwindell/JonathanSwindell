@@ -1,21 +1,24 @@
-<h1 align="center">Hello there 👋, I'm Jonathan</h1>
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/2835e441-e3c5-47c3-b64d-2433a48ccb47"><h1 align="center">Hello there 👋, I'm Jonathan</h1>
 <h3 align="center">I love building awesome things.</h3>
 
 - ⚡ I’m currently researching the application of Machine Learning and Signal Processing to 5G/6G spectrum problems and hardware characterization
-
 - 📫 Want to collaborate? **jonathan_swindell1@baylor.edu**.
-
 - 👀 See my work experience at www.linkedin.com/in/jonathan-swindell/.
-
 - 🚀 I completed my bachelor's degree in Computer Engineering from **The University of Alabama in Huntsville** in 2023. Go Chargers!
-
 - 🐻 And I am now a **PhD Student** at **Baylor**. 
 
 <h3 align="left">Papers</h3>
 
 
-<h3 align="left">Organization of Code</h3>
+<h3 align="left">Organization of Open Source Code</h3>
+- Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
+ 	- DeadReckoning System Python Logger and ROS Controls ([code]([https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
+  	- Andriod Bluetooth Broadcast ([code]([https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast])
+  	- Visualization Tool ([code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
 
+- High School Exploits
+	- Multiplayer Snake HTML **3rd place at Huntsville Highschool Hackathon** ([Code]([Multiplayer Snake HTMLhttps://github.com/JonathanSwindell/Multiplayer-Web-Snake]))
+ 	- IOS 11 Pong App **Top 61st in the App Store's Arcade Section** ([Code]([Multiplayer Snake HTMLhttps://github.com/JonathanSwindell/Multiplayer-Web-Snake]))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -78,5 +81,5 @@
 	author       = {Gibson, Cody Vaughn and Swindell, Jonathan Edwin and Collier, George Donald},
 	year         = {2021},
 	pages        = {412--413},
-}```
+}'''
 
