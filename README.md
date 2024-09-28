@@ -8,9 +8,8 @@
 - 🐻 And I am now a **PhD Student** at **Baylor**. 
 
 <h3 align="left">Organization of Open Source Code</h3>
-- Assessing Interference with Regression Analysis Techniques 
-[Paper](https://ieeexplore.ieee.org/abstract/document/10619025) 
-[Code](https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques)
+
+- Assessing Interference with Regression Analysis Techniques ([Paper](https://ieeexplore.ieee.org/abstract/document/10619025), [Code](https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques))
 
 - Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
  	- DeadReckoning System Python Logger and ROS Controls ([Code](https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
