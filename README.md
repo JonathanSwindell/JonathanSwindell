@@ -4,7 +4,7 @@
 - ⚡ I’m currently researching the application of Machine Learning and Signal Processing to 5G/6G spectrum problems and hardware characterization
 - 📫 Want to collaborate? **jonathan_swindell1@baylor.edu**.
 - 👀 See my work experience at www.linkedin.com/in/jonathan-swindell/.
-- 🚀 I proudly hail from rocket city [(Huntsville, AL)](https://www.huntsville.org/blog/list/post/how-huntsville-al-earned-the-name-rocket-city/) and completed my bachelor's degree in Computer Engineering from **The University of Alabama in Huntsville** in 2023. Go Chargers!
+- 🚀 I proudly hail from rocket city ([Huntsville, AL](https://www.huntsville.org/blog/list/post/how-huntsville-al-earned-the-name-rocket-city/)) and completed my bachelor's degree in Computer Engineering from **The University of Alabama in Huntsville** in 2023. Go Chargers!
 - 🐻 Now you can find me in the lab at **Baylor University** where I work with my advisors [Dr. Marks](https://www.ecs.baylor.edu/person/dr-robert-j-marks-ii) and [Dr. Baylis](https://www.ecs.baylor.edu/person/dr-charles-baylis). 
 
 <h3 align="left">Organization of Open Source Code</h3>
