@@ -1,4 +1,4 @@
-Hello there 👋, I'm Jonathan</h1>
+<h1 align="center">Hello there 👋, I'm Jonathan</h1>
 <h3 align="center">I love building awesome things.</h3>
 
 - ⚡ I’m currently researching the application of Machine Learning and Signal Processing to 5G/6G spectrum problems and hardware characterization
@@ -8,6 +8,7 @@ Hello there 👋, I'm Jonathan</h1>
 - 🐻 And I am now a **PhD Student** at **Baylor**. 
 
 <h3 align="left">Organization of Open Source Code</h3>
+- Assessing Interference with Regression Analysis Techniques ([Paper](https://ieeexplore.ieee.org/abstract/document/10619025), [Code](https://github.com/carsonslater/Assessing-Interference-with-Regression-Analysis-Techniques))
 
 - Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
  	- DeadReckoning System Python Logger and ROS Controls ([Code](https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
