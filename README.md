@@ -1,4 +1,4 @@
-<img width="838" alt="image" src="https://github.com/user-attachments/assets/2835e441-e3c5-47c3-b64d-2433a48ccb47"><h1 align="center">Hello there 👋, I'm Jonathan</h1>
+Hello there 👋, I'm Jonathan</h1>
 <h3 align="center">I love building awesome things.</h3>
 
 - ⚡ I’m currently researching the application of Machine Learning and Signal Processing to 5G/6G spectrum problems and hardware characterization
@@ -8,13 +8,11 @@
 - 🐻 And I am now a **PhD Student** at **Baylor**. 
 
 <h3 align="left">Organization of Open Source Code</h3>
+
 - Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
  	- DeadReckoning System Python Logger and ROS Controls ([Code](https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
-  	
-   	- Andriod Bluetooth Broadcast ([Code]([https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast]))
-  	
-   	- Visualization Tool ([Code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
-
+  	- Andriod Bluetooth Broadcast ([Code]([https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast]))
+  	- Visualization Tool ([Code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
 
 - High School Exploits
 	- Multiplayer Snake HTML **3rd place at Huntsville Highschool Hackathon** ([Code](https://github.com/JonathanSwindell/Multiplayer-Web-Snake))
