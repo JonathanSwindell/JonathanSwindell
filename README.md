@@ -5,7 +5,7 @@
 - ⚡ I’m currently working on research projects in spectrum engineering and machine learning.
 
 - 📫 Get in touch at **jonathan_swindell1@baylor.edu**.
-- 👀 See my work experience at [www.linkedin.com/in/jonathan-swindell/](www.linkedin.com/in/jonathan-swindell/).
+- 👀 See my work experience at ([www.linkedin.com/in/jonathan-swindell/](www.linkedin.com/in/jonathan-swindell/)).
 
 - 🚀 I completed my bachelor's degree from **The University of Alabama in Huntsville** in 2023. Go Chargers!
 
