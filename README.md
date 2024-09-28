@@ -82,5 +82,5 @@
 	author       = {Gibson, Cody Vaughn and Swindell, Jonathan Edwin and Collier, George Donald},
 	year         = {2021},
 	pages        = {412--413},
-}'''
+}
 
