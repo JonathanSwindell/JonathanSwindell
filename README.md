@@ -66,7 +66,7 @@
 }
 
 @article{swindell_implemetation_nodate,
-	title        = {An {Implemetation} of {Real}-{Time} {Wearable} {Monitoring} of the {Lower}-{Leg} {Edema} {Using} {Bioimpedance}},
+	title        = {An Implemetation of Real-Time Wearable Monitoring of the Lower-Leg Edema Using Bioimpedance},
 	abstract     = {Cardiovascular disease is the leading cause of death in the United States. We propose a wearable sensor for continuous monitoring of edema in lower legs using bioimpedance. Bioimpedance devices are able to accurately measure Extra Cellular Water (ECW) and Total Body Water (TBW) using whole body measurements. This work details the implementation of a continuous real time, non-invasive wearable bioimpedance and activity monitoring system. The system collects a complex bioimpedance of the lower leg together with user’s activity collected from an inertial sensor. The preliminary results indicate that activity state classification model achieved accuracy of 94.0 \% based on bioimpedance only. We plan to use the system for monitoring of lower leg edema throughout the day as a part of diagnostic analysis of heart failure patients.},
 	author       = {Swindell, Jonathan Edwin},
 	year         = {2023},
@@ -76,7 +76,7 @@
 
 
 @article{gibson_assessment_2021,
-	title        = {Assessment of {Prehospital} {Monitor}/{Defibrillators} for {Clostridioides} difficile {Contamination}},
+	title        = {Assessment of Prehospital Monitor/Defibrillators for Clostridioides difficile Contamination},
 	volume       = {36},
 	journal      = {Prehospital and Disaster Medicine},
 	author       = {Gibson, Cody Vaughn and Swindell, Jonathan Edwin and Collier, George Donald},
