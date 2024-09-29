@@ -71,7 +71,7 @@
 	author       = {Swindell, Jonathan Edwin},
 	year         = {2023},
 	type         = {Undergraduate Honors Capstone Projects and Theses},
-	publisher    ={UAH Louis},
+	publisher    = {UAH Louis},
 }
 
 
