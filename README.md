@@ -59,7 +59,7 @@
 	title        = {Multi-Dimensional Image Completion for Automated Power Amplifier Design},
 	booktitle    = {United States National Committee of {URSI} National Radio Science Meeting ({USNC}-{URSI} {NRSM})},
 	address      = {Boulder, CO, USA},
-	author 		 = {Swindell, Jonathan E. and Egbert, Austin and Goad, Adam C. and Haug, Sam and Latham, Casey and Ozalas, Matthew and Howard, Andy and McClearnon, Daren and Baylis, Charles and Marks II, Robert J.},
+	author       = {Swindell, Jonathan E. and Egbert, Austin and Goad, Adam C. and Haug, Sam and Latham, Casey and Ozalas, Matthew and Howard, Andy and McClearnon, Daren and Baylis, Charles and Marks II, Robert J.},
 	year         = {2024},
 	month        = jan,
 	pages        = {259--259},
