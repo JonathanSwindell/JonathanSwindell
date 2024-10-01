@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Jonathan</h1>
 <h3 align="center">I love building awesome things.</h3>
 
+<img src="https://komarev.com/ghpvc/?username=JonathanSwindell&color=green" alt="watching_count" />
+
 - ⚡ I’m currently researching the application of Machine Learning and Signal Processing to 5G/6G spectrum problems and hardware characterization
 - 📫 Want to collaborate? **jonathan_swindell1@baylor.edu**.
 - 👀 See my work experience at www.linkedin.com/in/jonathan-swindell/.
