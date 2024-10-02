@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Jonathan</h1>
-<h3 align="center">I love building awesome things.</h3>
+<h3 align="center">I build awesome things.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=JonathanSwindell" alt="watching_count" />
 
