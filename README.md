@@ -30,6 +30,14 @@
 <h3 align="left">BibTeX Citations</h3>
 
 ```
+@inproceedings{Swindell_MDLPE_LAMC2025,
+	title        = {Multidimensional Load-Pull Extrapolation using Generative Adversarial Networks},
+	booktitle    = {IEEE Latin American Mircowave Conference ({LAMC})},
+	author       = {Swindell, Jonathan E. and Goad, Adam C. and Egbert, Austin and Baylis, Charles and Marks, Robert J.},
+	year         = {2025},
+	month        = jan,
+}
+
 @inproceedings{hussey_application_2024,
 	title        = {Application of Mamdani Fuzzy Inference Systems to Interference Assessments},
 	booktitle    = {IEEE International Symposium on Dynamic Spectrum Access Networks ({DySPAN})},
