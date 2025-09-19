@@ -16,7 +16,7 @@
 - Senior Design: GPS-Denied Multi-Sensor Fusion Localization System
  	- DeadReckoning System Python Logger and ROS Controls ([Code](https://github.com/JonathanSwindell/Dead-Reckoning-Subsystem-for-a-Multi-Sensor-Fusion-Localization-System-/tree/main))
   	- Android Bluetooth Broadcast ([Code](https://github.com/JonathanSwindell/Andriod-GPS-Location-Bluetooth-Broadcast))
-  	- Visualization Tool ([Code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
+  	- Map Visualization Tool ([Code](https://github.com/JonathanSwindell/Localization-Systems-Visual-Comparision-Tool))
 
 - High School Exploits
 	- Multiplayer Snake HTML **3rd place at Huntsville Highschool Hackathon** ([Code](https://github.com/JonathanSwindell/Multiplayer-Web-Snake))
